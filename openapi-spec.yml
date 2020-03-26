@@ -1,0 +1,25 @@
+openapi: 3.0.0
+
+info:
+  version: 1.0
+  title: service-lims-api
+  description: Middleware API for LIMS Automation
+
+basePath: /v1
+
+externalDocs:
+  url: /api-docs
+
+paths:
+  /health:
+    get:
+      operationId: healthCheck
+      responses:
+        '200':
+          description: ""
+          content:
+            application/json:
+              schema:
+                type: boolean
+
+components:

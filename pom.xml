@@ -225,7 +225,7 @@
         <dependency>
             <groupId>commons-fileupload</groupId>
             <artifactId>commons-fileupload</artifactId>
-            <version>1.2.1</version>
+            <version>1.4</version>
         </dependency>
         <dependency>
             <groupId>org.apache.commons</groupId>
@@ -235,7 +235,7 @@
         <dependency>
             <groupId>org.apache.commons</groupId>
             <artifactId>commons-compress</artifactId>
-            <version>1.18</version>
+            <version>1.20</version>
         </dependency>
         <dependency>
             <groupId>javax.servlet</groupId>
@@ -272,7 +272,7 @@
         <dependency>
             <groupId>org.hibernate.validator</groupId>
             <artifactId>hibernate-validator</artifactId>
-            <version>6.0.17.Final</version>
+            <version>6.0.18.Final</version>
         </dependency>
         <dependency>
             <groupId>com.fasterxml.jackson.datatype</groupId>

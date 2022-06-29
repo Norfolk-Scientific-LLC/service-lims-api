@@ -16,7 +16,7 @@
         <jwt.version>0.10.7</jwt.version>
         <springfox.version>2.6.1</springfox.version>
         <querydsl.version>4.1.4</querydsl.version>
-        <apache.poi.version>3.17</apache.poi.version>
+        <apache.poi.version>4.1.1</apache.poi.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
     </properties>
